@@ -1,6 +1,6 @@
 # Github
-Arquivo da aula de Git e Github para iniciantes.
-Eu não estou compreendendo nada desta bagaça.
+Arquivo da aula de Git e Github para iniciantes, do programa Reset da CWI.
+
 
 
 	function imprimir (txt) {
